@@ -10,6 +10,7 @@
     <h1>User Page</h1>
     @foreach ($data as $item )
     {{ $item }}
+    {{ $item }}
     @endforeach
 </body>
 </html>

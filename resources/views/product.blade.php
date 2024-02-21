@@ -7,9 +7,8 @@
     <title>User</title>
 </head>
 <body>
-    <h1>User Page</h1>
+    <h1>Gadgets</h1>
     @foreach ($data as $item )
-    {{ $item }}
     {{ $item }}
     @endforeach
 </body>
